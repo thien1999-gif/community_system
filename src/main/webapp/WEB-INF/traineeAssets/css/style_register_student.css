@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+
+   background: -webkit-linear-gradient(left, #7579ff, #b224ef);
+   margin-top: 150px !important;
+}
+.bentrai{
+    text-align: center;
+    color: white;
+    padding: 30px;
+}
+.bentrai h3{
+    animation: rote 3s forwards ;
+} 
+.bentrai p{
+    padding: 20px;
+}
+.bentrai .btn-primary{
+    border-radius: 30px;
+    border:none;
+    width: 120px;
+    background: white;
+    color: black;
+}
+.benphai{
+    background: white;
+    border-top-left-radius: 10% 50%;
+    border-bottom-left-radius: 10% 50%;
+    margin-bottom: 56px;
+    
+
+}
+.benphai h2{
+    text-align: center;
+    color: gray;
+}
+form{
+    padding: 30px;
+}
+.benphai .btn-primary{
+    border-radius: 30px;
+    border:none;
+    width: 120px;
+    background: -webkit-linear-gradient(left, #7579ff, #b224ef);
+    color: white;
+    
+    margin-bottom: 20px;
+}
+.nutcancel{
+    float: right;
+}
+.benphai .btn-primary:hover{
+    transition: 1s;
+    background:-webkit-linear-gradient(left, #b224ef, #7579ff);
+}
+@keyframes rote{
+    0%{transform: rotateY(0deg);}
+    100%{transform:rotateY(360deg);}
+}
+
+div .text-muted {
+    color: red!important;
+}

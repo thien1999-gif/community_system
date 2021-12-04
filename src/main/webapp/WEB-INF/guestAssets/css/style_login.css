@@ -1,0 +1,32 @@
+.row{
+    margin-top: 150px;
+}
+.social-media{
+    width: 100%;
+    float: left;
+    margin-top: 20px;
+  }
+  
+  .social-media ul{
+    list-style: none;
+  }
+  
+  .social-media ul li{
+    display: inline-block;
+    cursor: pointer;
+    margin: 25px 15px;
+  }
+  
+  .social-media img{
+    width: 40px;
+    height: 40px;
+  }
+  a{
+      float: right;
+  }
+  div .text-muted {
+    color: red!important;
+}
+  /* body{
+    background: url(images/bg.jpg) no-repeat;
+  } */

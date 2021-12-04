@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: -webkit-linear-gradient(left, #7579ff, #b224ef);
+    
+}
+.trai h1{
+    font-size: 40px;
+    color: white;
+    margin-top: 250px;
+}
+.trai p{
+    font-size: 17px;
+    color: white;
+}
+h3{
+    
+    color: white;
+}
+.glyhicon-pencil{
+    font-size: 60px;
+    color: white;
+}
+.col-md-5{
+    margin-top: 50px;
+    box-shadow: -1px 1px 60px 10px black;
+    background: rgba(0,0,0,0.4);
+    border-radius: 16px;
+    color: white;
+    padding-top: 16px;
+}
+label{
+    color: white;
+}
+form{
+    padding-bottom: 20px;
+}
+ div .text-muted {
+    color: red!important;
+}

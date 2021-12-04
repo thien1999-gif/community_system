@@ -1,0 +1,17 @@
+#example {
+  margin-bottom: 0;
+}
+
+table, th, td {
+  border-collapse: collapse;
+}
+
+textarea {
+  resize: none;
+  height: auto;
+}
+
+table {
+  white-space: initial;
+}
+
